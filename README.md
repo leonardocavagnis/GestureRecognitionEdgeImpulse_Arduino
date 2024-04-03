@@ -4,6 +4,8 @@
 
 This repository contains an Arduino sketch for gesture recognition using Edge Impulse.
 
+For a detailed description and explanation, please refer to the external article [here](https://medium.com/@leonardocavagnis/gesture-recognition-with-edge-impulse-and-arduino-0da09c0873d5).
+
 ## Hardware Requirements
 
 - [Arduino Giga R1 WiFi board](https://store.arduino.cc/products/giga-r1-wifi)
